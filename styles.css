@@ -229,6 +229,10 @@ body {
         color: #000;
       }
 
+    button {
+      transition: color 0.8s;
+    }
+
     .btn1 {
       margin-right: 60px;
       height: 50px;
